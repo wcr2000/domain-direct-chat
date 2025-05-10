@@ -60,9 +60,9 @@ const Influencers = () => {
     <div className="py-16 bg-secondary/30">
       <div className="container">
         <div className="text-center mb-12">
-        <h2 className="text-3xl font-bold mb-3">Insights from World-Class Experts</h2>
+        <h2 className="text-3xl font-bold mb-3">Insights from Experts</h2>
         <p className="text-muted-foreground max-w-2xl mx-auto">
-          We've distilled the knowledge of world-class experts across various fields to create expert AI assistants that you can converse with and learn from anytime.
+          We've distilled the knowledge of experts across various fields to create expert AI assistants that you can converse with and learn from anytime.
         </p>
         </div>
         
