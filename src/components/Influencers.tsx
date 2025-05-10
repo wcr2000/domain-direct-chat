@@ -18,40 +18,40 @@ interface InfluencerProps {
 
 const influencers: InfluencerProps[] = [
   {
-    name: "Kim Property Live",
-    expertise: "ผู้เชี่ยวชาญด้านอสังหา",
-    image: "https://yt3.googleusercontent.com/ytc/AIdro_kXnMaYvCSo-_0xg7zWcI0le3cMr3aBK3K-tOtJmgNAf3d4=s900-c-k-c0x00ffffff-no-rj",
-    initials: "SS"
+    "name": "Kim Property Live",
+    "expertise": "Real Estate Expert",
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kXnMaYvCSo-_0xg7zWcI0le3cMr3aBK3K-tOtJmgNAf3d4=s900-c-k-c0x00ffffff-no-rj",
+    "initials": "SS"
   },
   {
-    name: "Ray Dalio",
-    expertise: "นักลงทุนและผู้เชี่ยวชาญด้านการเงิน",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=500",
-    initials: "RD"
+    "name": "Ray Dalio",
+    "expertise": "Investor and Financial Expert",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=500",
+    "initials": "RD"
   },
   {
-    name: "Brené Brown",
-    expertise: "ผู้เชี่ยวชาญด้านพัฒนาตนเอง",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=500",
-    initials: "BB"
+    "name": "Brené Brown",
+    "expertise": "Self-Development Expert",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=500",
+    "initials": "BB"
   },
   {
-    name: "Naval Ravikant",
-    expertise: "นักลงทุนและผู้ประกอบการ",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=500",
-    initials: "NR"
+    "name": "Naval Ravikant",
+    "expertise": "Investor and Entrepreneur",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=500",
+    "initials": "NR"
   },
   {
-    name: "Sara Blakely",
-    expertise: "ผู้ประกอบการและนักธุรกิจ",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=500",
-    initials: "SB"
+    "name": "Sara Blakely",
+    "expertise": "Entrepreneur and Businesswoman",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=500",
+    "initials": "SB"
   },
   {
-    name: "Daniel Kahneman",
-    expertise: "นักจิตวิทยาและผู้เชี่ยวชาญด้านการตัดสินใจ",
-    image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=500",
-    initials: "DK"
+    "name": "Daniel Kahneman",
+    "expertise": "Psychologist and Decision-Making Expert",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=500",
+    "initials": "DK"
   }
 ];
 
