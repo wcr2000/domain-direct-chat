@@ -19,8 +19,8 @@ interface InfluencerProps {
 const influencers: InfluencerProps[] = [
   {
     name: "Simon Sinek",
-    expertise: "ผู้เชี่ยวชาญด้านภาวะผู้นำ",
-    image: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&q=80&w=500",
+    expertise: "ผู้เชี่ยวชาญด้านอสังหา",
+    image: "https://yt3.googleusercontent.com/ytc/AIdro_kXnMaYvCSo-_0xg7zWcI0le3cMr3aBK3K-tOtJmgNAf3d4=s900-c-k-c0x00ffffff-no-rj",
     initials: "SS"
   },
   {
