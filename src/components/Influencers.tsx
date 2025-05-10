@@ -18,38 +18,38 @@ interface InfluencerProps {
 
 const influencers: InfluencerProps[] = [
   {
-    name: "Simon Sinek",
-    expertise: "Real Estate Expert",
+    name: "Kim Property Live",
+    expertise: "ผู้เชี่ยวชาญด้านอสังหา",
     image: "https://yt3.googleusercontent.com/ytc/AIdro_kXnMaYvCSo-_0xg7zWcI0le3cMr3aBK3K-tOtJmgNAf3d4=s900-c-k-c0x00ffffff-no-rj",
     initials: "SS"
   },
   {
     name: "Ray Dalio",
-    expertise: "Financial Investor & Expert",
+    expertise: "นักลงทุนและผู้เชี่ยวชาญด้านการเงิน",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=500",
     initials: "RD"
   },
   {
     name: "Brené Brown",
-    expertise: "Personal Development Expert",
+    expertise: "ผู้เชี่ยวชาญด้านพัฒนาตนเอง",
     image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=500",
     initials: "BB"
   },
   {
     name: "Naval Ravikant",
-    expertise: "Investor & Entrepreneur",
+    expertise: "นักลงทุนและผู้ประกอบการ",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=500",
     initials: "NR"
   },
   {
     name: "Sara Blakely",
-    expertise: "Entrepreneur & Business Leader",
+    expertise: "ผู้ประกอบการและนักธุรกิจ",
     image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=500",
     initials: "SB"
   },
   {
     name: "Daniel Kahneman",
-    expertise: "Psychologist & Decision-Making Expert",
+    expertise: "นักจิตวิทยาและผู้เชี่ยวชาญด้านการตัดสินใจ",
     image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=500",
     initials: "DK"
   }
@@ -60,9 +60,9 @@ const Influencers = () => {
     <div className="py-16 bg-secondary/30">
       <div className="container">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold mb-3">Knowledge from World-Class Experts</h2>
+          <h2 className="text-3xl font-bold mb-3">ความรู้จากผู้เชี่ยวชาญระดับโลก</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            We've extracted knowledge from world-class experts across various fields to create AI specialists you can chat with and learn from anytime.
+            เราได้ถอดความรู้จากผู้เชี่ยวชาญระดับโลกในหลากหลายสาขา เพื่อนำมาสร้าง AI ผู้เชี่ยวชาญให้คุณได้สนทนาและเรียนรู้ได้ตลอดเวลา
           </p>
         </div>
         
