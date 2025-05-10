@@ -4,6 +4,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import Features from '@/components/Features';
 import ExpertList from '@/components/ExpertList';
+import Influencers from '@/components/Influencers';
 import Testimonials from '@/components/Testimonials';
 import CTA from '@/components/CTA';
 import Footer from '@/components/Footer';
@@ -15,6 +16,7 @@ const Index = () => {
       <main className="flex-1">
         <Hero />
         <Features />
+        <Influencers />
         <ExpertList />
         <Testimonials />
         <CTA />
